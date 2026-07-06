@@ -5,8 +5,8 @@ This guide provides a comprehensive, two-part approach to optimizing Windows per
 
 ### 📊 Results: Before & After
 <p align="center">
-  <img src="https://github.com/godragun/Make-RAM-free-/blob/main/90%25%20ram.webp?raw=true" alt="Before: 90% RAM Usage" width="48%">
-  <img src="https://github.com/godragun/Make-RAM-free-/blob/main/40%25%20ram.webp?raw=true" alt="After: 40% RAM Usage" width="48%">
+  <img src="https://github.com/godragun/Make-RAM-free-/blob/main/90%25%20ram.webp?raw=true" alt="Before: 90% RAM Usage" height="300">
+  <img src="https://github.com/godragun/Make-RAM-free-/blob/main/40%25%20ram.webp?raw=true" alt="After: 40% RAM Usage" height="300">
 </p>
 
 ---
